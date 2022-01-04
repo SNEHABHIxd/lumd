@@ -1,6 +1,6 @@
 import asyncio
 import time
-import uvloop
+
 import importlib
 from pyrogram import Client
 from fumck.config import API_ID, API_HASH, BOT_TOKEN, MONGO_DB_URI, SUDO_USERS, LOG_GROUP_ID
